@@ -1,0 +1,906 @@
+{
+  "XKZ3F8YJQ4LV97BWP2NT": {
+    "status": "activated",
+    "days": 312,
+    "activation_date": "2025-03-16",
+    "expiration_date": "2026-01-22"
+  },
+  "6JHIUHKG546KJG345JH4KG": {
+    "status": "noactivated",
+    "days": 31
+  },
+  "J7QP2NDY64XW8LFKZV39": {
+    "status": "noactivated",
+    "days": 154
+  },
+  "PQ39XW8LFKZV7JQ2NDY6": {
+    "status": "noactivated",
+    "days": 91
+  },
+  "RT8HRT7H89R0THRTH8R045": {
+    "status": "noactivated",
+    "days": "forever"
+  },
+  "V7JQ2NDY64XW8LFKZP39": {
+    "status": "noactivated",
+    "days": 365
+  },
+  "NDY64XW8LFKZV7JQP239": {
+    "status": "noactivated",
+    "days": 289
+  },
+  "ZV7JQ2NDY64XW8LFKP39": {
+    "status": "activated",
+    "days": "forever",
+    "activation_date": "2025-03-18"
+  },
+  "4XW8LFKZV7JQP2NDY639": {
+    "status": "noactivated",
+    "days": 87
+  },
+  "KZV7JQP2NDY64XW8LF39": {
+    "status": "noactivated",
+    "days": "forever"
+  },
+  "7JQP2NDY64XW8LFKZV39": {
+    "status": "noactivated",
+    "days": "forever"
+  },
+  "QP2NDY64XW8LFKZV7J39": {
+    "status": "noactivated",
+    "days": 360
+  },
+  "2NDY64XW8LFKZV7JQP39": {
+    "status": "noactivated",
+    "days": 99
+  },
+  "DY64XW8LFKZV7JQP239": {
+    "status": "noactivated",
+    "days": "forever"
+  },
+  "Y64XW8LFKZV7JQP2ND39": {
+    "status": "noactivated",
+    "days": 76
+  },
+  "64XW8LFKZV7JQP2NDY39": {
+    "status": "noactivated",
+    "days": "forever"
+  },
+  "XW8LFKZV7JQP2NDY6439": {
+    "status": "noactivated",
+    "days": 233
+  },
+  "W8LFKZV7JQP2NDY6439X": {
+    "status": "noactivated",
+    "days": 337
+  },
+  "8LFKZV7JQP2NDY6439XW": {
+    "status": "noactivated",
+    "days": 75
+  },
+  "LFKZV7JQP2NDY6439XW8": {
+    "status": "noactivated",
+    "days": 356
+  },
+  "FKZV7JQP2NDY6439XW8L": {
+    "status": "noactivated",
+    "days": "forever"
+  },
+  "KZV7JQP2NDY6439XW8LF": {
+    "status": "noactivated",
+    "days": "forever"
+  },
+  "V7JQP2NDY6439XW8LFKZ": {
+    "status": "activated",
+    "days": "forever",
+    "activation_date": "2025-03-14"
+  },
+  "JQP2NDY6439XW8LFKZV7": {
+    "status": "noactivated",
+    "days": 267
+  },
+  "P2NDY6439XW8LFKZV7JQ": {
+    "status": "noactivated",
+    "days": 355
+  },
+  "2NDY6439XW8LFKZV7JQP": {
+    "status": "noactivated",
+    "days": 140
+  },
+  "NDY6439XW8LFKZV7JQP2": {
+    "status": "noactivated",
+    "days": 240
+  },
+  "DY6439XW8LFKZV7JQP2N": {
+    "status": "noactivated",
+    "days": 185
+  },
+  "Y6439XW8LFKZV7JQP2ND": {
+    "status": "noactivated",
+    "days": 318
+  },
+  "6439XW8LFKZV7JQP2NDY": {
+    "status": "noactivated",
+    "days": 290
+  },
+  "439XW8LFKZV7JQP2NDY6": {
+    "status": "noactivated",
+    "days": 172
+  },
+  "39XW8LFKZV7JQP2NDY64": {
+    "status": "noactivated",
+    "days": 305
+  },
+  "9XW8LFKZV7JQP2NDY643": {
+    "status": "noactivated",
+    "days": 170
+  },
+  "N3Z9C5QBHX82TD7YRM6PW4JSFKGLVN1E": {
+    "status": "noactivated",
+    "days": 256
+  },
+  "72LKMN8X9GVH6PSQJTZR34BCDWFY1EA5": {
+    "status": "noactivated",
+    "days": 112
+  },
+  "YHF32J5XCD97L6BGVP8RKMQZ1NTS4WEA": {
+    "status": "noactivated",
+    "days": 34
+  },
+  "RMW6J2T58X9CLFZQDYBHN31PVKES4GA7": {
+    "status": "noactivated",
+    "days": 189
+  },
+  "F6H73L8VWYKDN5XJT1R2B49GCMPEQSZA": {
+    "status": "noactivated",
+    "days": 87
+  },
+  "P9VXZ3RJ5C71MYF2QWBDNT6L8SHAKE4G": {
+    "status": "noactivated",
+    "days": 301
+  },
+  "J8HDF2N7YXT9K5BGSLCQRM31PVAZE6W4": {
+    "status": "noactivated",
+    "days": 214
+  },
+  "X3NCV9J51S7Z6B2HFRWQ8TMDGPYAKL4E": {
+    "status": "noactivated",
+    "days": 55
+  },
+  "ZT36B9WHDQJ2R78LCV4YFX1P5AGSMKEN": {
+    "status": "noactivated",
+    "days": 350
+  },
+  "H9L6WD3X2F7BCSVQZ5TNA8J1YR4MPEGK": {
+    "status": "noactivated",
+    "days": 98
+  },
+  "B8GS3Z9P1QY75MCDVXHRE2NFTAKJLW46": {
+    "status": "noactivated",
+    "days": 277
+  },
+  "12AB3CDEFGH4IJKLMNO5PQRSTUVW6XYZ7": {
+    "status": "noactivated",
+    "days": 15
+  },
+  "Q5H3Z76K92LDWXVYFMNPGT4J8BCARSEQ": {
+    "status": "noactivated",
+    "days": 322
+  },
+  "N8J2X5LC9VY6Q4BGS3R1HZT7WFMPKADE": {
+    "status": "noactivated",
+    "days": 72
+  },
+  "V7H9S3C61XLJ2Y8ZQF5WPDTBN4KAREMG": {
+    "status": "noactivated",
+    "days": 195
+  },
+  "5H6G7FKLD8VBNWQO2IUT3Y9ESZARCPMX": {
+    "status": "noactivated",
+    "days": 35
+  },
+  "O6M4J9W3P7Z1D2SVLTCE8Q5BXFYHNGAR": {
+    "status": "noactivated",
+    "days": 239
+  },
+  "E8VN1Z6H3QY7S9L2FDJ5MBXACWPKR4GT": {
+    "status": "noactivated",
+    "days": 162
+  },
+  "25D8Q6BNV4X3H7Z9R1CMEGKSWLYAJFTP": {
+    "status": "noactivated",
+    "days": 288
+  },
+  "K3J8V6H2Z719W5CXDYQBSNL4REMPATGF": {
+    "status": "noactivated",
+    "days": 9
+  },
+  "F9G2V1W5Z7D6QLKSRY3P4MHJBXATE8CN": {
+    "status": "noactivated",
+    "days": 311
+  },
+  "H6P9N5W2J8K3TZRCLF4B7VMQDX1YAGSE": {
+    "status": "noactivated",
+    "days": 26
+  },
+  "W7L2P6X8F3B1T9RDCHVJMQNSKYGZAE45": {
+    "status": "noactivated",
+    "days": 137
+  },
+  "R8J1V6F4N3P7WB2QLYDGKZ9SCHTXA5ME": {
+    "status": "noactivated",
+    "days": 203
+  },
+  "4T9V1P6J8C3K2LSYWRFNQMZHDAXBG5E7": {
+    "status": "noactivated",
+    "days": 359
+  },
+  "29CDH35JKLM6NOPQRS7TUV8WXYZ1ABEFG": {
+    "status": "noactivated",
+    "days": 201
+  },
+  "5Q8S1T7X3C2B6Z4NDRFVWLKPHJMY9AGE": {
+    "status": "noactivated",
+    "days": 175
+  },
+  "95L4MV7Q1BS8X6WZDNPCK2R3FGATYHJE": {
+    "status": "noactivated",
+    "days": 333
+  },
+  "2H6VC3J8S5R9F4Z1QWLDTNBKXMPGYAE7": {
+    "status": "noactivated",
+    "days": 61
+  },
+  "V8R2M1W5H6Y4F9T3BJNCDQESLXPAGKZ7": {
+    "status": "noactivated",
+    "days": 226
+  },
+  "7Y8C5Z1H6R9F2N3VQLKDTMPBXSJGAWE4": {
+    "status": "noactivated",
+    "days": 105
+  },
+  "2B7T8X9H4Z6F3L1QVRNDCMJSPKYGAWE5": {
+    "status": "noactivated",
+    "days": 294
+  },
+  "Q5Z8C2N7G3Y9B6H1L4DTSXVMKPRFWAJE": {
+    "status": "noactivated",
+    "days": 17
+  },
+  "V3D9N7B4Z1H6C8XQL2RFMWJPTKSAYE5G": {
+    "status": "noactivated",
+    "days": 346
+  },
+  "8B3G2F1V7H4Z9R6QCNJXSMKDWATYPLE5": {
+    "status": "noactivated",
+    "days": 80
+  },
+  "3S1N6B9R4M2J7V5XZWYTGHCDKPLAFEQ8": {
+    "status": "noactivated",
+    "days": 318
+  },
+  "6Q7D2T5H9B3L1V8RCSFMXYWNJPAZGE4K": {
+    "status": "noactivated",
+    "days": 149
+  },
+  "X9G6R4N5L3K7S1VJCDMBPQFTYZHWAE28": {
+    "status": "noactivated",
+    "days": 245
+  },
+  "9B7W1J5L2D6C8HTQVRXMNPSYKFZAGE34": {
+    "status": "noactivated",
+    "days": 38
+  },
+  "4S7R2V5H6K1D9N3LCFBWJZTYAQEPMGX8": {
+    "status": "noactivated",
+    "days": 121
+  },
+  "N2V9B5X1H8K3Q4R7GTLDZMCWJSYEPFA6": {
+    "status": "noactivated",
+    "days": 262
+  },
+  "W3P7C2B9R1Z8D6XVTKYNSMJQFHGLAE45": {
+    "status": "noactivated",
+    "days": 155
+  },
+  "5Z9X3K1C7G6H2J8QDLVTNBWFMPYSAR4E": {
+    "status": "noactivated",
+    "days": 7
+  },
+  "1M6L4R3C2X9Z7K8QDTNVBWJHPSAYEFG5": {
+    "status": "noactivated",
+    "days": 338
+  },
+  "7Z2V6P9D1C4M8X3QRSBYHJTNKWAGFEL5": {
+    "status": "noactivated",
+    "days": 19
+  },
+  "3M5W9C7L8R1F6Y4QVNSJZTDBPXHAEKG2": {
+    "status": "noactivated",
+    "days": 271
+  },
+  "8Z3Q2H6L5M1C9VTKDBYWSRJNXFPAE7G4": {
+    "status": "noactivated",
+    "days": 93
+  },
+  "C4T3P9L7B6V2R5WJSNDYKQMFHZEGAX18": {
+    "status": "noactivated",
+    "days": 307
+  },
+  "W7L1N6V5X4C8Q2RBTSZDMJPHKGAEYF39": {
+    "status": "noactivated",
+    "days": 42
+  },
+  "M9J3C8R6N4B7T1ZQLDWKYVSPHXGAE5F2": {
+    "status": "noactivated",
+    "days": 131
+  },
+  "6V9P7C3K5Z1B2R4NQFYHJSDWXGLAE8TM": {
+    "status": "noactivated",
+    "days": 233
+  },
+  "N7J4B9W1L8V6T5RDFKYHMGQXSCPAZE32": {
+    "status": "noactivated",
+    "days": 354
+  },
+  "R8N6G2W7K4B5P1XQYJHLDZCMSVAEFT93": {
+    "status": "noactivated",
+    "days": 59
+  },
+  "52A6G7HJ8KL9MNPQ0RS1TUV2WXYZ3BCD": {
+    "status": "noactivated",
+    "days": 168
+  },
+  "Q43F5G6H7JK8LMN9PQR0ST1UVW2XYZABC": {
+    "status": "noactivated",
+    "days": 328
+  },
+  "37C5G8K2P9MQ1V4XBR6DJYFTNHLSAZWE": {
+    "status": "noactivated",
+    "days": 77
+  },
+  "R15Z2Y4H6LKN8B3CQG9DJFWXPAVTMES7": {
+    "status": "noactivated",
+    "days": 208
+  },
+  "9F4R3H6C2L7VKN5BSMJQWTZDYPAGXE18": {
+    "status": "noactivated",
+    "days": 342
+  },
+  "B35L2X9T1VY8M4HJQNZDGCSKFWPATER6": {
+    "status": "noactivated",
+    "days": 21
+  },
+  "1V93H7B6LZMY45CQRS2TDEKAXJFGNPW8": {
+    "status": "noactivated",
+    "days": 283
+  },
+  "7D24FLM8N5P6QRS9TUVW0XYZ1ABC3HJK": {
+    "status": "noactivated",
+    "days": 10
+  },
+  "62AD9E3FH4GJ5KLM7NOP8QRS1TUVBCWXY": {
+    "status": "noactivated",
+    "days": 251
+  },
+  "9T8U4VW3XY2ZA1BC5DEF7GHI6JKLMPQRS": {
+    "status": "noactivated",
+    "days": 315
+  },
+  "4G2KMS6T9W1B3CD5E7FVHZ8JLNQPRXYA": {
+    "status": "noactivated",
+    "days": 144
+  },
+  "A78B9C2DE3FGH4I5JKL6MNO7PQR1STUVW": {
+    "status": "noactivated",
+    "days": 65
+  },
+  "46G7HLNQT8BC2DJ5VW9FYK1MP3SRXZAE": {
+    "status": "noactivated",
+    "days": 182
+  },
+  "W45XEYA3BV8CDNF1G29HJQ7KLPM6RSTZ": {
+    "status": "noactivated",
+    "days": 356
+  },
+  "85CF7GVHXJ92KBNM4DLPQ1RTZ3YW6ASE": {
+    "status": "noactivated",
+    "days": 51
+  },
+  "78HDF2N7YXT9K5BGSLCQRM31PVAZE6W4": {
+    "status": "noactivated",
+    "days": 117
+  },
+  "15NCV9J51S7Z6B2HFRWQ8TMDGPYAKL4E": {
+    "status": "noactivated",
+    "days": 266
+  },
+  "6736B9WHDQJ2R78LCV4YFX1P5AGSMKEN": {
+    "status": "noactivated",
+    "days": 32
+  },
+  "45L6WD3X2F7BCSVQZ5TNA8J1YR4MPEGK": {
+    "status": "noactivated",
+    "days": 199
+  },
+  "27GS3Z9P1QY75MCDVXHRE2NFTAKJLW46": {
+    "status": "noactivated",
+    "days": 83
+  },
+  "2RAB3CDEFGH4IJKLMNO5PQRSTUVW6XYZ7": {
+    "status": "noactivated",
+    "days": 27
+  },
+  "33H3Z76K92LDWXVYFMNPGT4J8BCARSEQ": {
+    "status": "noactivated",
+    "days": 248
+  },
+  "89J2X5LC9VY6Q4BGS3R1HZT7WFMPKADE": {
+    "status": "noactivated",
+    "days": 95
+  },
+  "77H9S3C61XLJ2Y8ZQF5WPDTBN4KAREMG": {
+    "status": "noactivated",
+    "days": 362
+  },
+  "516G7FKLD8VBNWQO2IUT3Y9ESZARCPMX": {
+    "status": "noactivated",
+    "days": 13
+  },
+  "23M4J9W3P7Z1D2SVLTCE8Q5BXFYHNGAR": {
+    "status": "noactivated",
+    "days": 278
+  },
+  "45VN1Z6H3QY7S9L2FDJ5MBXACWPKR4GT": {
+    "status": "noactivated",
+    "days": 299
+  },
+  "92D8Q6BNV4X3H7Z9R1CMEGKSWLYAJFTP": {
+    "status": "noactivated",
+    "days": 337
+  },
+  "95J8V6H2Z719W5CXDYQBSNL4REMPATGF": {
+    "status": "noactivated",
+    "days": 63
+  },
+  "96G2V1W5Z7D6QLKSRY3P4MHJBXATE8CN": {
+    "status": "noactivated",
+    "days": 109
+  },
+  "18P9N5W2J8K3TZRCLF4B7VMQDX1YAGSE": {
+    "status": "noactivated",
+    "days": 25
+  },
+  "86L2P6X8F3B1T9RDCHVJMQNSKYGZAE45": {
+    "status": "noactivated",
+    "days": 171
+  },
+  "29J1V6F4N3P7WB2QLYDGKZ9SCHTXA5ME": {
+    "status": "noactivated",
+    "days": 331
+  },
+  "81T9V1P6J8C3K2LSYWRFNQMZHDAXBG5E7": {
+    "status": "noactivated",
+    "days": 45
+  },
+  "26Q8S1T7X3C2B6Z4NDRFVWLKPHJMY9AGE": {
+    "status": "noactivated",
+    "days": 36
+  },
+  "44L4MV7Q1BS8X6WZDNPCK2R3FGATYHJE": {
+    "status": "noactivated",
+    "days": 127
+  },
+  "88H6VC3J8S5R9F4Z1QWLDTNBKXMPGYAE7": {
+    "status": "noactivated",
+    "days": 289
+  },
+  "66R2M1W5H6Y4F9T3BJNCDQESLXPAGKZ7": {
+    "status": "noactivated",
+    "days": 58
+  },
+  "77Y8C5Z1H6R9F2N3VQLKDTMPBXSJGAWE4": {
+    "status": "activated",
+    "days": 193,
+    "activation_date": "2025-03-18",
+    "expiration_date": "2025-09-27"
+  },
+  "31B7T8X9H4Z6F3L1QVRNDCMJSPKYGAWE5": {
+    "status": "noactivated",
+    "days": 358
+  },
+  "69Z8C2N7G3Y9B6H1L4DTSXVMKPRFWAJE": {
+    "status": "noactivated",
+    "days": 46
+  },
+  "13D9N7B4Z1H6C8XQL2RFMWJPTKSAYE5G": {
+    "status": "noactivated",
+    "days": 219
+  },
+  "65B3G2F1V7H4Z9R6QCNJXSMKDWATYPLE5": {
+    "status": "noactivated",
+    "days": 313
+  },
+  "21S1N6B9R4M2J7V5XZWYTGHCDKPLAFEQ8": {
+    "status": "noactivated",
+    "days": 22
+  },
+  "41Q7D2T5H9B3L1V8RCSFMXYWNJPAZGE4K": {
+    "status": "noactivated",
+    "days": 284
+  },
+  "56G6R4N5L3K7S1VJCDMBPQFTYZHWAE28": {
+    "status": "noactivated",
+    "days": 349
+  },
+  "39B7W1J5L2D6C8HTQVRXMNPSYKFZAGE34": {
+    "status": "noactivated",
+    "days": 69
+  },
+  "94S7R2V5H6K1D9N3LCFBWJZTYAQEPMGX8": {
+    "status": "noactivated",
+    "days": 151
+  },
+  "33V9B5X1H8K3Q4R7GTLDZMCWJSYEPFA6": {
+    "status": "noactivated",
+    "days": 257
+  },
+  "28P7C2B9R1Z8D6XVTKYNSMJQFHGLAE45": {
+    "status": "noactivated",
+    "days": 324
+  },
+  "32Z9X3K1C7G6H2J8QDLVTNBWFMPYSAR4E": {
+    "status": "noactivated",
+    "days": 110
+  },
+  "68M6L4R3C2X9Z7K8QDTNVBWJHPSAYEFG5": {
+    "status": "noactivated",
+    "days": 14
+  },
+  "99Z2V6P9D1C4M8X3QRSBYHJTNKWAGFEL5": {
+    "status": "noactivated",
+    "days": 267
+  },
+  "44M5W9C7L8R1F6Y4QVNSJZTDBPXHAEKG2": {
+    "status": "noactivated",
+    "days": 305
+  },
+  "34Z3Q2H6L5M1C9VTKDBYWSRJNXFPAE7G4": {
+    "status": "noactivated",
+    "days": 185
+  },
+  "43T3P9L7B6V2R5WJSNDYKQMFHZEGAX18": {
+    "status": "noactivated",
+    "days": 360
+  },
+  "33L1N6V5X4C8Q2RBTSZDMJPHKGAEYF39": {
+    "status": "noactivated",
+    "days": 40
+  },
+  "72J3C8R6N4B7T1ZQLDWKYVSPHXGAE5F2": {
+    "status": "noactivated",
+    "days": 163
+  },
+  "96V9P7C3K5Z1B2R4NQFYHJSDWXGLAE8TM": {
+    "status": "noactivated",
+    "days": 317
+  },
+  "21J4B9W1L8V6T5RDFKYHMGQXSCPAZE32": {
+    "status": "noactivated",
+    "days": 73
+  },
+  "66N6G2W7K4B5P1XQYJHLDZCMSVAEFT93": {
+    "status": "noactivated",
+    "days": 237
+  },
+  "48A6G7HJ8KL9MNPQ0RS1TUV2WXYZ3BCD": {
+    "status": "noactivated",
+    "days": 352
+  },
+  "73F5G6H7JK8LMN9PQR0ST1UVW2XYZABC": {
+    "status": "noactivated",
+    "days": 101
+  },
+  "16C5G8K2P9MQ1V4XBR6DJYFTNHLSAZWE": {
+    "status": "noactivated",
+    "days": 296
+  },
+  "675Z2Y4H6LKN8B3CQG9DJFWXPAVTMES7": {
+    "status": "noactivated",
+    "days": 54
+  },
+  "53F4R3H6C2L7VKN5BSMJQWTZDYPAGXE18": {
+    "status": "noactivated",
+    "days": 11
+  },
+  "915L2X9T1VY8M4HJQNZDGCSKFWPATER6": {
+    "status": "noactivated",
+    "days": 129
+  },
+  "7993H7B6LZMY45CQRS2TDEKAXJFGNPW8": {
+    "status": "noactivated",
+    "days": 286
+  },
+  "2614FLM8N5P6QRS9TUVW0XYZ1ABC3HJK": {
+    "status": "noactivated",
+    "days": 344
+  },
+  "3662AD9E3FH4GJ5KLM7NOP8QRS1TUVBCWXY": {
+    "status": "noactivated",
+    "days": 157
+  },
+  "513T8U4VW3XY2ZA1BC5DEF7GHI6JKLMPQRS": {
+    "status": "noactivated",
+    "days": 211
+  },
+  "598G2KMS6T9W1B3CD5E7FVHZ8JLNQPRXYA": {
+    "status": "noactivated",
+    "days": 364
+  },
+  "953B9C2DE3FGH4I5JKL6MNO7PQR1STUVW": {
+    "status": "noactivated",
+    "days": 273
+  },
+  "867HLNQT8BC2DJ5VW9FYK1MP3SRXZAE": {
+    "status": "noactivated",
+    "days": 97
+  },
+  "76W5XEYA3BV8CDNF1G29HJQ7KLPM6RSTZ": {
+    "status": "noactivated",
+    "days": 15
+  },
+  "87CF7GVHXJ92KBNM4DLPQ1RTZ3YW6ASE": {
+    "status": "noactivated",
+    "days": 290
+  },
+  "87HDF2N7YXT9K5BGSLCQRM31PVAZE6W4": {
+    "status": "noactivated",
+    "days": 39
+  },
+  "46NCV9J51S7Z6B2HFRWQ8TMDGPYAKL4E": {
+    "status": "noactivated",
+    "days": 123
+  },
+  "836B9WHDQJ2R78LCV4YFX1P5AGSMKEN": {
+    "status": "noactivated",
+    "days": 230
+  },
+  "69L6WD3X2F7BCSVQZ5TNA8J1YR4MPEGK": {
+    "status": "noactivated",
+    "days": 302
+  },
+  "42GS3Z9P1QY75MCDVXHRE2NFTAKJLW46": {
+    "status": "noactivated",
+    "days": 67
+  },
+  "73RAB3CDEFGH4IJKLMNO5PQRSTUVW6XYZ7": {
+    "status": "noactivated",
+    "days": 187
+  },
+  "65H3Z76K92LDWXVYFMNPGT4J8BCARSEQ": {
+    "status": "noactivated",
+    "days": 335
+  },
+  "61J2X5LC9VY6Q4BGS3R1HZT7WFMPKADE": {
+    "status": "noactivated",
+    "days": 223
+  },
+  "63H9S3C61XLJ2Y8ZQF5WPDTBN4KAREMG": {
+    "status": "noactivated",
+    "days": 4
+  },
+  "416G7FKLD8VBNWQO2IUT3Y9ESZARCPMX": {
+    "status": "noactivated",
+    "days": 135
+  },
+  "36M4J9W3P7Z1D2SVLTCE8Q5BXFYHNGAR": {
+    "status": "noactivated",
+    "days": 107
+  },
+  "77VN1Z6H3QY7S9L2FDJ5MBXACWPKR4GT": {
+    "status": "noactivated",
+    "days": 29
+  },
+  "26D8Q6BNV4X3H7Z9R1CMEGKSWLYAJFTP": {
+    "status": "noactivated",
+    "days": 351
+  },
+  "66J8V6H2Z719W5CXDYQBSNL4REMPATGF": {
+    "status": "noactivated",
+    "days": 178
+  },
+  "58G2V1W5Z7D6QLKSRY3P4MHJBXATE8CN": {
+    "status": "noactivated",
+    "days": 246
+  },
+  "64P9N5W2J8K3TZRCLF4B7VMQDX1YAGSE": {
+    "status": "noactivated",
+    "days": 81
+  },
+  "49L2P6X8F3B1T9RDCHVJMQNSKYGZAE45": {
+    "status": "noactivated",
+    "days": 326
+  },
+  "96J1V6F4N3P7WB2QLYDGKZ9SCHTXA5ME": {
+    "status": "noactivated",
+    "days": 56
+  },
+  "79T9V1P6J8C3K2LSYWRFNQMZHDAXBG5E7": {
+    "status": "noactivated",
+    "days": 235
+  },
+  "54CDH35JKLM6NOPQRS7TUV8WXYZ1ABEFG": {
+    "status": "noactivated",
+    "days": 113
+  },
+  "28Q8S1T7X3C2B6Z4NDRFVWLKPHJMY9AGE": {
+    "status": "noactivated",
+    "days": 196
+  },
+  "61L4MV7Q1BS8X6WZDNPCK2R3FGATYHJE": {
+    "status": "noactivated",
+    "days": 33
+  },
+  "58H6VC3J8S5R9F4Z1QWLDTNBKXMPGYAE7": {
+    "status": "noactivated",
+    "days": 153
+  },
+  "82R2M1W5H6Y4F9T3BJNCDQESLXPAGKZ7": {
+    "status": "noactivated",
+    "days": 279
+  },
+  "84Y8C5Z1H6R9F2N3VQLKDTMPBXSJGAWE4": {
+    "status": "noactivated",
+    "days": 90
+  },
+  "28B7T8X9H4Z6F3L1QVRNDCMJSPKYGAWE5": {
+    "status": "noactivated",
+    "days": 365
+  },
+  "52D9N7B4Z1H6C8XQL2RFMWJPTKSAYE5G": {
+    "status": "noactivated",
+    "days": 217
+  },
+  "16B3G2F1V7H4Z9R6QCNJXSMKDWATYPLE5": {
+    "status": "noactivated",
+    "days": 139
+  },
+  "24S1N6B9R4M2J7V5XZWYTGHCDKPLAFEQ8": {
+    "status": "noactivated",
+    "days": 264
+  },
+  "14Q7D2T5H9B3L1V8RCSFMXYWNJPAZGE4K": {
+    "status": "noactivated",
+    "days": 281
+  },
+  "75G6R4N5L3K7S1VJCDMBPQFTYZHWAE28": {
+    "status": "noactivated",
+    "days": 5
+  },
+  "51B7W1J5L2D6C8HTQVRXMNPSYKFZAGE34": {
+    "status": "noactivated",
+    "days": 339
+  },
+  "73S7R2V5H6K1D9N3LCFBWJZTYAQEPMGX8": {
+    "status": "noactivated",
+    "days": 164
+  },
+  "55V9B5X1H8K3Q4R7GTLDZMCWJSYEPFA6": {
+    "status": "noactivated",
+    "days": 20
+  },
+  "26P7C2B9R1Z8D6XVTKYNSMJQFHGLAE45": {
+    "status": "noactivated",
+    "days": 320
+  },
+  "35Z9X3K1C7G6H2J8QDLVTNBWFMPYSAR4E": {
+    "status": "noactivated",
+    "days": 85
+  },
+  "91M6L4R3C2X9Z7K8QDTNVBWJHPSAYEFG5": {
+    "status": "noactivated",
+    "days": 258
+  },
+  "44Z2V6P9D1C4M8X3QRSBYHJTNKWAGFEL5": {
+    "status": "noactivated",
+    "days": 115
+  },
+  "82M5W9C7L8R1F6Y4QVNSJZTDBPXHAEKG2": {
+    "status": "noactivated",
+    "days": 158
+  },
+  "43Z3Q2H6L5M1C9VTKDBYWSRJNXFPAE7G4": {
+    "status": "noactivated",
+    "days": 274
+  },
+  "27T3P9L7B6V2R5WJSNDYKQMFHZEGAX18": {
+    "status": "noactivated",
+    "days": 363
+  },
+  "87L1N6V5X4C8Q2RBTSZDMJPHKGAEYF39": {
+    "status": "noactivated",
+    "days": 49
+  },
+  "41J3C8R6N4B7T1ZQLDWKYVSPHXGAE5F2": {
+    "status": "noactivated",
+    "days": 180
+  },
+  "93V9P7C3K5Z1B2R4NQFYHJSDWXGLAE8TM": {
+    "status": "noactivated",
+    "days": 347
+  },
+  "94J4B9W1L8V6T5RDFKYHMGQXSCPAZE32": {
+    "status": "activated",
+    "days": 6,
+    "activation_date": "2025-03-16",
+    "expiration_date": "2025-03-22"
+  },
+  "18N6G2W7K4B5P1XQYJHLDZCMSVAEFT93": {
+    "status": "noactivated",
+    "days": 228
+  },
+  "75A6G7HJ8KL9MNPQ0RS1TUV2WXYZ3BCD": {
+    "status": "noactivated",
+    "days": 205
+  },
+  "48F5G6H7JK8LMN9PQR0ST1UVW2XYZABC": {
+    "status": "noactivated",
+    "days": 92
+  },
+  "87C5G8K2P9MQ1V4XBR6DJYFTNHLSAZWE": {
+    "status": "noactivated",
+    "days": 355
+  },
+  "865Z2Y4H6LKN8B3CQG9DJFWXPAVTMES7": {
+    "status": "noactivated",
+    "days": 125
+  },
+  "41F4R3H6C2L7VKN5BSMJQWTZDYPAGXE18": {
+    "status": "noactivated",
+    "days": 241
+  },
+  "835L2X9T1VY8M4HJQNZDGCSKFWPATER6": {
+    "status": "noactivated",
+    "days": 30
+  },
+  "5993H7B6LZMY45CQRS2TDEKAXJFGNPW8": {
+    "status": "noactivated",
+    "days": 160
+  },
+  "1514FLM8N5P6QRS9TUVW0XYZ1ABC3HJK": {
+    "status": "noactivated",
+    "days": 287
+  },
+  "7762AD9E3FH4GJ5KLM7NOP8QRS1TUVBCWXY": {
+    "status": "noactivated",
+    "days": 52
+  },
+  "693T8U4VW3XY2ZA1BC5DEF7GHI6JKLMPQRS": {
+    "status": "noactivated",
+    "days": 119
+  },
+  "648G2KMS6T9W1B3CD5E7FVHZ8JLNQPRXYA": {
+    "status": "noactivated",
+    "days": 146
+  },
+  "Djeheisjdhhrje": {
+    "status": "noactivated",
+    "days": 183
+  },
+  "Jdgduwjdgd364": {
+    "status": "noactivated",
+    "days": 91
+  },
+  "Dhhejshdhr734": {
+    "status": "noactivated",
+    "days": 61
+  },
+  "Dhhdjdhdur374": {
+    "status": "noactivated",
+    "days": "forever"
+  },
+  "Fhhehdhd73": {
+    "status": "noactivated",
+    "days": "forever"
+  }
+}
